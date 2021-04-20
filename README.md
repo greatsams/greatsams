@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @greatsams
 - 👀 I’m interested in web development
-- 🌱 I’m currently learningbachelors in Information communication Technology
+- 🌱 I’m currently learning bachelors in Information communication Technology
 - 💞️ I’m looking to collaborate on projects
 - 📫 Reach me via Gmail - mbiusam18@gmail.com
 
